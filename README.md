@@ -4,4 +4,6 @@
 
 <h3>como rodar na maquina<h3>
 
-<p>npm install<p>
+```
+node app.js
+```
